@@ -1,7 +1,7 @@
 using System.Buffers.Binary;
 using System.Text;
 
-namespace pgproxy;
+namespace pgproxy.Messages;
 
 // IReader is an interface that message types implement to write their
 // data back to a connection

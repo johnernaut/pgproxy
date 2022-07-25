@@ -1,4 +1,4 @@
-namespace pgproxy;
+namespace pgproxy.Messages;
 
 public class SSLRequest : IReader
 {

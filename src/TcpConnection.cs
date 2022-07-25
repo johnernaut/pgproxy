@@ -2,6 +2,7 @@ using System.Buffers;
 using System.Buffers.Binary;
 using System.Net.Sockets;
 using System.Text;
+using pgproxy.Messages;
 
 namespace pgproxy;
 
